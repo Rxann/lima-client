@@ -1,2 +1,3 @@
 # lima-client
- A client library for the Lima Telemetry Service
+
+A client library for the Lima Telemetry Project

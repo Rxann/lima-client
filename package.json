@@ -1,0 +1,25 @@
+{
+  "name": "lima-client",
+  "version": "0.0.0",
+  "description": "A client library for the Lima Telemetry Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rxann/lima-client.git"
+  },
+  "keywords": [
+    "lima"
+  ],
+  "author": "rxan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Rxann/lima-client/issues"
+  },
+  "homepage": "https://github.com/Rxann/lima-client#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
