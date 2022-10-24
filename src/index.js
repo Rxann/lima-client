@@ -22,3 +22,4 @@ function tele(serveraddr) {
       );
     });
 }
+module.exports = tele;
