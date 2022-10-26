@@ -1,8 +1,8 @@
 {
   "name": "lima-client",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A client library for the Lima Telemetry Project",
-  "main": "index.js",
+  "main": "src/sindex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
